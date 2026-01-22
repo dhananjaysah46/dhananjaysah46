@@ -10,7 +10,7 @@
 ### 🌟 About Me
 - 🚀 **Passionate** about coding, problem-solving, and building impactful projects.
 - 🎓 **Student** with hands-on experience in Python, Java, and Web Technologies.
-- 🔭 **Currently working on:** Enhancing my Portfolio Website and mastering DSA.
+- 🔭 **Currently working on:** Mastering DSA and building an Expense Management System.
 
 ---
 
@@ -24,9 +24,10 @@
 ### 👨‍💻 Featured Projects
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [Portfolio Website](https://github.com/dhananjaysah46/Portfolio-website) | Professional site showcasing my work and skills. | HTML, CSS, JS |
+| [Expense Management System](https://github.com/dhananjaysah46/expense-management-system) | A robust system to track and manage personal finances. | HTML, CSS, JS |
+| [Portfolio Website](https://github.com/dhananjaysah46/Portfolio-website) | My professional portfolio site showcasing projects and skills. | HTML, CSS, JS |
 | [Weather App](https://github.com/dhananjaysah46/Weather_App-Python) | Real-time weather updates using OpenWeather API. | Python |
-| [DSA Practice](https://github.com/dhananjaysah46/Array-in-Java-DSA) | Comprehensive collection of Array problems. | Java |
+| [Python Basics](https://github.com/dhananjaysah46/Python_Basics_SkillShikshya) | Collection of foundational Python concepts and exercises. | Python |
 
 ---
 
@@ -39,6 +40,9 @@
 
 ### 📫 Connect With Me
 <p align="left">
+  <a href="https://www.dhananjaysah.com.np" target="_blank">
+    <img src="https://skillicons.dev/icons?i=md" height="40" alt="Portfolio Website" />
+  </a>
   <a href="https://www.linkedin.com/in/dhananjaysah46" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
