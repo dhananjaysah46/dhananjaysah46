@@ -49,7 +49,7 @@ I’m a passionate and curious **software developer in the making**, focused on 
 | **[Portfolio Website](https://github.com/dhananjaysah46/Portfolio-website)** | My personal portfolio showcasing projects, skills, and achievements. | HTML, CSS, JavaScript |
 | **[Weather App](https://github.com/dhananjaysah46/Weather_App-Python)** | A Python-based app providing real-time weather updates using an external API. | Python |
 | **[Python Basics](https://github.com/dhananjaysah46/Python_Basics_SkillShikshya)** | A structured collection of foundational Python concepts and exercises. | Python |
-| **[Django SkillShikshya](https://github.com/dhananjaysah46/Django_SkillShikshya)** | A structured collection of foundational Django concepts and Practices. | Django |
+| **[Django SkillShikshya](https://github.com/dhananjaysah46/Django_SkillShikhshya)** | A structured collection of foundational Django concepts and Practices. | Django |
 
 ---
 
